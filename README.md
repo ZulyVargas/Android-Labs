@@ -28,15 +28,15 @@ git checkout first-app
 
 1. Create a new project with the "Empty Activity" template:
 
-![](/img/createApp.png)
+    ![](/img/createApp.png)
 
 2. Configure the options:
 
-![](/img/configuration.png)
+    ![](/img/configuration.png)
 
 3. After android studio finishes the project setup the files can be seen in the left part of the window:
 
-![](/img/files.png)
+    ![](/img/files.png)
 
 4. To create a virtual device for the execution and testing of the application, go to the top menu Tools -> Device Manager
 
