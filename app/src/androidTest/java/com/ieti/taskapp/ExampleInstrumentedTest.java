@@ -1,4 +1,4 @@
-package com.ieti.happybirthday;
+package com.ieti.taskapp;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.ieti.happybirthday", appContext.getPackageName());
+        assertEquals("com.ieti.taskapp", appContext.getPackageName());
     }
 }

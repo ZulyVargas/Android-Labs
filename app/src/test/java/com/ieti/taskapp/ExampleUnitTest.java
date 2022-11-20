@@ -1,4 +1,4 @@
-package com.ieti.happybirthday;
+package com.ieti.taskapp;
 
 import org.junit.Test;
 

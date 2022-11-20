@@ -6,7 +6,7 @@ IETI - LAB09
 
 ## Development
 
-This project is developed following the steps of the following tutorial:
+This project is developed following the steps of the following tutorial,with the "Basic Activity template". This project is for the TaskApp:
 
 [ basic-android-kotlin-training-first-template-project ](https://developer.android.com/codelabs/basic-android-kotlin-training-first-template-project)
 
@@ -26,13 +26,10 @@ git checkout first-app
 
 ## Step by step:
 
-1. Create a new project with the "Empty Activity" template:
+1. Create a new project with the "Basic Activity" template.
 
-    ![](/img/createApp.png)
 
-2. Configure the options:
-
-    ![](/img/configuration.png)
+2. Configure the options.
 
 3. After android studio finishes the project setup the files can be seen in the left part of the window:
 
@@ -51,9 +48,11 @@ git checkout first-app
 
     ![](img/device3.png)
 
-5. The application will appear on the device:
+5. The application will appear on the device with the icon created:
 
     ![](img/appdevice.png)
+
+    ![](img/appdevice2.png)
 
 ## Authors
 
