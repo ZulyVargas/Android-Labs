@@ -24,6 +24,14 @@ git checkout consume-api
 
 ## Step by step:
 
+1. Add the dependencies:
+
+![](img/dependencies.png)
+
+2. Create DTO's, interfaces, and controllers for the requests to the API.
+
+![](img/filesapi.png)
+
 ## Authors
 
 - **Zuly Valentina Vargas Ramírez**
