@@ -1,14 +1,12 @@
-# Create and run your first Android app
+# Configuration services to consume REST API with Retrofit
 
-IETI - LAB09
+IETI - LAB10
 
 2022-2.
 
 ## Development
 
-This project is developed following the steps of the following tutorial,with the "Basic Activity template". This project is for the TaskApp:
-
-[ basic-android-kotlin-training-first-template-project ](https://developer.android.com/codelabs/basic-android-kotlin-training-first-template-project)
+In this project it is used the Retroit tool in order to get data from the previously created API for user authentication and task creation and update. 
 
 ### Prerequisites
 
@@ -21,38 +19,10 @@ To download the project run:
 
 ```bash
 git clone https://github.com/ZulyVargas/Android-Labs
-git checkout first-app
+git checkout consume-api
 ```
 
 ## Step by step:
-
-1. Create a new project with the "Basic Activity" template.
-
-
-2. Configure the options.
-
-3. After android studio finishes the project setup the files can be seen in the left part of the window:
-
-    ![](/img/files.png)
-
-4. To create a virtual device for the execution and testing of the application, go to the top menu Tools -> Device Manager
-
-    ![](img/device1.png)
-
-
-    After an AVD is created it will appear in the right side menu:
-
-    ![](img/device2.png)
-
-    Run te application:
-
-    ![](img/device3.png)
-
-5. The application will appear on the device with the icon created:
-
-    ![](img/appdevice.png)
-
-    ![](img/appdevice2.png)
 
 ## Authors
 
