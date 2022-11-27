@@ -15,6 +15,9 @@ public class FirstFragment extends Fragment {
 
     private FragmentFirstBinding binding;
 
+    @Inject
+    AnalyticsService analyticsService;
+
     @Override
     public View onCreateView(
             LayoutInflater inflater, ViewGroup container,
